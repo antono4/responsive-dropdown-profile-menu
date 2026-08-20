@@ -1,1 +1,26 @@
-Last updated: 2026-08-20 20:37:03 WIB
+# responsive-dropdown-profile-menu
+
+
+
+## 📋 Overview
+
+This repository contains **19 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-20 20:43:55 WIB*
